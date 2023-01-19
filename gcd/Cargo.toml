@@ -1,13 +1,8 @@
 [package]
-name = "my-project"
+name = "gcd"
 version = "0.1.0"
-authors = ["runner"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rand = "0.8.5"
-gcd = { path = "./gcd" }
-csv = "1.1.6"
-tests = { path = "./tests" }
