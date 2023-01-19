@@ -8,6 +8,6 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8.5"
-gcd = { path = "./gcd" }
+gcd = { path = "libraries/gcd" }
 csv = "1.1.6"
-tests = { path = "./tests" }
+tests = { path = "libraries/tests" }
