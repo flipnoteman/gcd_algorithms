@@ -3,3 +3,11 @@ How to run the Program?
 You can run the program by running the executable either through a console window:
   -navigating to the directory via cmd prompt and running ./PA-1-Executable
 Or you can click on the executable file itself
+
+How were the spreadsheets generated?
+    The spreadsheets are generated automatically by the program, and replaced with new ones every time it's run
+
+Participation-
+Samuel Smith: 100% Samuel Wesley Smith
+Tiffany Huynh: 100% Tiffany Huynh
+Michael Wisher: 100% Michael Devin Wisher
